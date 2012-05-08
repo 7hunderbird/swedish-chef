@@ -1,4 +1,6 @@
 swedish-chef
 ============
 
-bork bork bork!
+børk børk børk!
+
+A demonstration repository for the Using Chef-Solo presentation.
