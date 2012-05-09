@@ -13,3 +13,5 @@ group "admin" do
   members [node[:user][:name]]
 end
 
+include_recipe "nginx::source"
+include_recipe "postgresql::server_debian"
